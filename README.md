@@ -7,7 +7,7 @@ You'll start from raw data and move through data preprocessing, feature engineer
 > 🚀 **Want to master MLOps from scratch?**  
 Check out the [MLOps Bootcamp at School of DevOps](https://schoolofdevops.com) to level up your skills.
 
----
+--- 
 
 ## 📦 Project Structure
 

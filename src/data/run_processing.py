@@ -66,6 +66,7 @@ def process_data(input_file, output_file):
     output_path = Path(output_file).parent
     output_path.mkdir(parents=True, exist_ok=True)
     
+    
     # Load data
     df = load_data(input_file)
     logger.info(f"Loaded data with shape: {df.shape}")

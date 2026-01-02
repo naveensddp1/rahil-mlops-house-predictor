@@ -23,4 +23,3 @@ Directory structure inside the container should look like this
          house_price_model.pkl
          preprocessor.pkl
 ```
-
