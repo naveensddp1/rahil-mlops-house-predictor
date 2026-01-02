@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 House Price Predictor – An MLOps Learning Project
 
 Welcome to the **House Price Predictor** project! This is a real-world, end-to-end MLOps use case designed to help you master the art of building and operationalizing machine learning pipelines.
@@ -185,3 +186,7 @@ We welcome contributions, issues, and suggestions to make this project even bett
 
 Happy Learning!  
 — Team **School of DevOps**
+=======
+# rahil-mlops-house-predictor
+rahil-mlops-house-predictor
+>>>>>>> 7f982dadfeaad0a355f49843bf2020a1f34a88c1
